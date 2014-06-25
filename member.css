@@ -1,0 +1,42 @@
+.member{
+	width:920px;
+	min-height:180px;
+	margin: 0 auto;
+	border:solid 3px rgb(100, 88, 68);
+	margin-bottom:20px;
+}
+.pic{
+	display:inline-block;
+}
+.member>h1{
+	display:inline-block;
+	font-family: \5FAE\8EDF\6B63\9ED1\9AD4, "細明體", "標楷體";
+	font-size:30px;
+	float: left;
+	font-weight: lighter;
+}
+.member img{
+    margin-top:30px;
+	margin-right:10px;
+	border:solid 1px rgb(0,0,0);
+	height: 143px;
+}
+.ancr{
+	width: 150px;
+	display: inline-block;
+	border: solid 0px rgb(0,0,0);
+	font-size: 20px;
+	line-height: 40px;
+	border-radius: 15px 0px 15px 0px;
+	cursor: pointer;
+	background-color: rgb(47, 196, 198);
+	font-weight: normal;
+	font-family: \5FAE\8EDF\6B63\9ED1\9AD4, "細明體", "標楷體";
+	margin-left: 10px;
+	margin-right: 5px;
+	margin-top:5px;
+	margin-bottom:10px;
+	box-shadow: 6px 3px 4px rgba(0,0,0,0.5);
+	text-decoration:none;
+	color:rgb(100, 88, 68);
+}
